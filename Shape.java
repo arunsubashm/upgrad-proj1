@@ -9,6 +9,8 @@ class Shape1 {
 
 // Branch 1 Modification
 
+// Branch 2 Modification
+
 class A {
     int methodA(int k) {
     	return 0;
