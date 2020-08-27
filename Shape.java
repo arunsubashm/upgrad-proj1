@@ -7,6 +7,8 @@ class Shape1 {
 
 // class definition
 
+// Branch 2 Modification
+
 class A {
     int methodA(int k) {
     	return 0;
