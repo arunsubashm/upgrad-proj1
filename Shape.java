@@ -5,6 +5,8 @@ class Shape1 {
     }
 }
 
+// class definition
+
 class A {
     int methodA(int k) {
     	return 0;
